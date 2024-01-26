@@ -4,6 +4,7 @@
 +Password: 123456
 3. The features were completed
 3.1 Admin
++Login
 +CRUD: "Danh mục", Slider, Product, Carts
 3.2 Customer
 +Watch Products
